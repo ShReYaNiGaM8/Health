@@ -1,0 +1,59 @@
+.left1,
+.left2,
+.left3,
+.left4,
+.left5,
+.left6,
+.left7,
+.left8, 
+.left9,
+.left10,
+.left11{
+  float: left;
+  font-size: 20px;
+  color: black;
+  border: 2px solid brown;
+  width: 70%;
+  background-color: beige;
+  font-family: forte;
+  font-style: italic;
+}
+.right1,
+.right2,
+.right3,
+.right4,
+.right5,
+.right6,
+.right7,
+.right8,
+.right9,
+.right10,
+.right11 {
+  float: right;
+  background-color: cadetblue;
+  color: aliceblue;
+  font-size: 20px;
+  border: 3px solid black;
+  width: 20%;
+}
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9,
+.div10,
+.div11{
+  background-color: lightblue;
+  padding: 10%;
+  border: 2px solid black;
+}
+.heading1 {
+  color: rgb(50, 38, 62);
+  text-align: center;
+  border: 2px solid black;
+  background-color: rgb(190, 190, 157);
+}

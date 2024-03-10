@@ -1,0 +1,45 @@
+H1 {
+  text-align: center;
+  color: rgba(141, 101, 101, 0.916);
+  margin-top: 50px;
+  font-family: monotype;
+}
+.background2 {
+  margin: 10%;
+  background-color: rgb(236, 214, 214);
+  border: 2px solid black;
+}
+.para1 {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+.text3 {
+  text-align: center;
+  font-size: 23px;
+  text-shadow: brown;
+  color: rgba(165, 42, 42, 0.352);
+}
+.image1 {
+  width: 600px;
+  height: 500px;
+  margin-left: 23%;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+.button {
+  color: aliceblue;
+  background-color: rgb(187, 118, 118);
+  font-size: 30px;
+
+  border: 2px solid black;
+  margin-left: 30%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.verticaltext {
+  margin-right: 10%;
+  font-size: 25px;
+  float: right;
+  writing-mode: vertical-rl;
+}

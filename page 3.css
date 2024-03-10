@@ -1,0 +1,16 @@
+.heading1 {
+    text-align: center;
+    text-decoration: underline;
+    color: darkolivegreen;
+  }
+  .heading2 {
+    color: black;
+  }
+  .form {
+    background-color: antiquewhite;
+  }
+  .container {
+    font-size: 20px;
+    font-style: italic;
+    color: red;
+  }
